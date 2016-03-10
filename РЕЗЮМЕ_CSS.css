@@ -1,0 +1,69 @@
+/* ГЛАВНАЯ СТРАНИЦА*/
+
+html {background-color: SandyBrown;}
+body {margin: 2% 14%; border: solid 2px Sienna; background-color: Wheat;}
+header  {border: solid 2px SaddleBrown;
+		height: 90px; background-color: SaddleBrown;
+		padding-left: 5%; font-size: 30px;}
+.foto {height: 330px; width: 30%; 
+		background: url(foto.jpg) no-repeat 35px 35px; background-size: 82% auto;
+		/*border: solid 1px;*/	
+		float: left;}
+.FIO {/*border: solid 1px;*/ 	 
+		height: 330px; width: 69.5%; 
+		float: right; text-align: center;
+		font-family: Tahoma, Arial, Trebuchet, Verdana, sans-serif; 
+		font-size: 30px;}		
+.dohod_name{/*border: solid 1px;*/	
+		height: 100px; width: 26%;
+		float: left; 
+		padding-left: 35px;
+		font-size: 30px;}
+.dohod_info{/*border: solid 1px;*/	 
+		height: 100px; width: 65%;
+		float: right; 
+		padding-right: 35px;
+		font-size: 30px; color: red;}
+.contact_name{/*border: solid 1px;*/	
+		height: 200px; width: 27%;
+		float: left; 
+		padding-left: 35px;
+		font-size: 30px;}
+#email {color: MediumBlue;}
+.contact_info{/*border: solid 1px;*/	 
+		height: 200px; width: 64%;
+		float: right; 
+		padding-right: 35px;
+		font-size: 30px;}
+.main_info {/*border: solid 1px;*/	
+		height: 120px; width: 48%;
+		float: left; overflow: hidden;
+		text-align: center; font-size: 25px;}
+.other_info {/*border: solid 1px;*/ 	 
+		height: 120px; width: 48%;
+		float: right; 
+		padding-left: 35px;
+		text-align: center;	font-size: 25px;}
+footer { height: 50px; clear: both;
+	background-color: SaddleBrown;
+	padding-top: 1.5%;
+	padding-right: 35px; text-align: right;
+	font-size: 25px;}
+
+/*СТРАНИЦЫ*/
+
+.column1 {border: solid 1px Wheat;
+		height: 750px; width: 20%;
+		font-family: Times New Roman, Trebuchet, Verdana, sans-serif;
+		font-size: 14px;
+		padding-left: 50px; 
+		float: left; text-align: left;}
+#column1_1 {padding-left: 20px;}		
+		
+.column2 {/*border: solid 1px red;*/ 	 
+		height: 330px; width: 50%;
+		font-family: Times New Roman,Trebuchet, Verdana, sans-serif;
+		font-size: 14px;
+		margin-left: 5%; padding-top: 2px;
+		float: left; text-align: left;}		
+		
